@@ -1,5 +1,3 @@
-![British Airways](https://www.google.com/url?sa=i&url=https%3A%2F%2Flogos-world.net%2Fbritish-airways-logo%2F&psig=AOvVaw3K9bWPZsJsz6zMANm3sokv&ust=1725471397880000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJiiyv-np4gDFQAAAAAdAAAAABAE](https://banner2.cleanpng.com/20181113/iai/kisspng-british-airways-logo-oneworld-united-kingdom-qanta-wrl-ll-qts-1713923070015.webp))
-
 # British Airways Data Science Assignment
 
 ## Overview
