@@ -4,6 +4,20 @@
 
 This repository contains the work I completed as part of the British Airways Data Science virtual internship provided by Forage. The program involved two key tasks focused on utilizing data science to derive insights from customer data and predict booking behavior, especially during peak travel seasons. This README provides an overview of the project structure, tasks completed, tools used, and the insights gained.
 
+## Project Structure
+```
+├── data
+│   ├── customer_booking.csv        # Original dataset provided for analysis
+│   ├── cleaned_data.csv            # Cleaned and preprocessed data
+├── notebooks
+│   ├── british_airways.ipynb   # Notebook for data exploration and cleaning
+│   ├── British_Airways_modelling.ipynb     # Notebook for feature engineering and model training
+├── results
+│   ├── British Airways.ppt      
+│   ├── British Airways-2.ppt      
+└── README.md                       # Project documentation (this file)
+```
+
 ## Task Descriptions
 
 ### Task 1: Customer Sentiment Analysis
@@ -39,3 +53,11 @@ This repository contains the work I completed as part of the British Airways Dat
 ## Conclusion
 
 This project provided hands-on experience with real-world data science tasks, from data cleaning and analysis to predictive modeling. The insights generated from the data could help British Airways make data-driven decisions to enhance customer satisfaction and optimize booking strategies.
+
+## How to Run
+
+## Clone the repository:
+```
+git clone https://github.com/Hriday-2010/British-Airways-Analysis-Virtual-Internship.git
+cd British-Airways-Analysis-Virtual-Internship
+```
